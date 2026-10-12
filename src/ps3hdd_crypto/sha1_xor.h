@@ -4,6 +4,7 @@
 #include <cstddef>
 #include <cstdint>
 #include <span>
+#include <algorithm>
 
 namespace ps3hdd::crypto {
 

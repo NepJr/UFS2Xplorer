@@ -3,6 +3,7 @@
 #include <array>
 #include <cstddef>
 #include <span>
+#include <algorithm>
 
 namespace ps3hdd::crypto {
 
